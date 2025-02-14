@@ -60,6 +60,12 @@ To get started with the project, follow these steps:
 - Enter the NIC, contact number, or QR code to search for user information.
 - The application will display the relevant information if found.
 
+## Demo
+
+You can try out the live demo of the application by clicking the button below:
+
+[![Demo](https://img.shields.io/badge/Demo-Live-brightgreen)](https://your-demo-url.com)
+
 ## Contributing
 
 Contributions are welcome! Please follow these steps to contribute:
