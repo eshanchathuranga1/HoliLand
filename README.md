@@ -64,7 +64,7 @@ To get started with the project, follow these steps:
 
 You can try out the live demo of the application by clicking the button below:
 
-[![Demo](https://img.shields.io/badge/Demo-Live-brightgreen)](https://your-demo-url.com)
+[![Demo](https://img.shields.io/badge/Demo-Live-brightgreen)](https://eshanchathuranga1.github.io/HoliLand/)
 
 ## Contributing
 
